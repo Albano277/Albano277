@@ -85,3 +85,24 @@ in cybersecurity, particularly in security operations,
 incident response, and digital forensics.
 
 
+---
+
+## Beyond Technology
+
+I am passionate about continuous learning, professional
+growth, and exploring how technology can solve real-world
+problems.
+
+Balancing a full-time career with my cybersecurity education
+has strengthened my discipline, time management, and
+determination.
+
+Outside of technology, I enjoy traveling, experiencing
+different cultures, and spending time with family.
+
+I believe that curiosity, perseverance, and a willingness
+to learn are essential to both personal and professional
+success.
+
+*Always learning. Continuously improving. Building a career in cybersecurity.*
+
