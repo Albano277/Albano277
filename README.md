@@ -74,4 +74,14 @@ the MITRE ATT&CK framework, emphasizing evidence accuracy
 and human verification.
 
 
+## Professional Connections
+
+- **LinkedIn:** [Maria Albano](https://www.linkedin.com/in/maria-albano-5588b7321/)
+- **Cybersecurity Portfolio:** [View My Portfolio](https://github.com/Albano277/Maria-Albano-Cybersecurity-Portfolio)
+- **GitHub:** [Albano277](https://github.com/Albano277)
+
+I welcome opportunities to connect with professionals
+in cybersecurity, particularly in security operations,
+incident response, and digital forensics.
+
 
