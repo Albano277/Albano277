@@ -40,3 +40,38 @@ and eventually specialize in digital forensics.
 - GitHub Actions and CI/CD workflows
 - Cloud automation and deployment
 - Back-end application development
+
+
+## Featured Projects
+
+### Campus Life Super App
+Collaborated on a student-focused web application designed
+to help college students access campus events, dining
+options, and useful resources.
+
+[View Repository](https://github.com/Albano277/campus-life-super-app)
+
+### Giphy API Application
+Developed a JavaScript application that retrieves and
+displays GIFs using an external API, including a search
+feature for user-selected topics.
+
+[View Repository](https://github.com/Albano277/Giphy-API)
+
+### AI-Assisted Ransomware Incident Response and Digital Forensics
+
+**Status:** Project completed; GitHub documentation and publication in progress.
+
+Designed and configured a virtual cybersecurity home lab
+using VMware Workstation, Ubuntu 24.04, and Windows 11.
+
+Installed and configured Wazuh and Sysmon to collect and
+analyze security events in a controlled environment.
+
+Conducted a non-destructive ransomware-related simulation
+and compared manual and AI-assisted forensic analysis using
+the MITRE ATT&CK framework, emphasizing evidence accuracy
+and human verification.
+
+
+
