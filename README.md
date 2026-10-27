@@ -3,7 +3,7 @@
 
 ### Cybersecurity Student | CompTIA Security+ Certified
 
-Welcome to my GitHub profile!
+Welcome to my professional cybersecurity GitHub profile!
 
 I'm a senior at American International College (AIC),
 pursuing my Bachelor of Science in Cybersecurity,
